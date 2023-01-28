@@ -1,0 +1,43 @@
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\IronBarCode.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Buffers.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Drawing.Common.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Memory.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\zxing.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\ZXing.ImageSharp.V2.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\zxing.presentation.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\IronBarCode.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Buffers.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Drawing.Common.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Memory.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\zxing.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\ZXing.ImageSharp.V2.pdb
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\ZXing.ImageSharp.V2.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\zxing.presentation.xml
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\obj\Debug\barcode Form.csproj.AssemblyReference.cache
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\obj\Debug\barcode Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\obj\Debug\barcode_Form.Properties.Resources.resources
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\obj\Debug\barcode Form.csproj.GenerateResource.cache
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\obj\Debug\barcode Form.csproj.CoreCompileInputs.cache
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\obj\Debug\barcode Form.csproj.CopyComplete
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\برنامج توليد الباركود.exe.config
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\برنامج توليد الباركود.exe
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\برنامج توليد الباركود.pdb
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\obj\Debug\برنامج توليد الباركود.exe
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\obj\Debug\برنامج توليد الباركود.pdb
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\QRCoder.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\AmerZ3eb\source\repos\barcode Form\barcode Form\obj\Debug\barcode_Form.FormMain.resources
